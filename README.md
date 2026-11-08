@@ -1,0 +1,2 @@
+# quux
+my kde setup
